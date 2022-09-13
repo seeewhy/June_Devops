@@ -1,1 +1,1 @@
-# June_Devops
+# June_Devops Training Day
